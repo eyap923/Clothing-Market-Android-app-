@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4d6159b-1110-46b7-85de-0fcfe79bb8d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Clothing/app/src/main/res/anim/item_animation_from_bottom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clothing/app/src/main/res/anim/layout_animation_from_bottom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clothing/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Clothing/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clothing/app/src/main/java/com/example/clothesshopping/ListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clothing/app/src/main/java/com/example/clothesshopping/ListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clothing/app/src/main/res/layout/activity_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clothing/app/src/main/res/layout/activity_list.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_R" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dHkOdfvyMoWnoyZZTser8bgIHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\angel\OneDrive - The University of Auckland\CS302\Part II\CS302-Java\Clothing\app\src\main\res\anim" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Clothing" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" goal="" />
+        <option name="MakeProject" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4d6159b-1110-46b7-85de-0fcfe79bb8d1" name="Default Changelist" comment="" />
+      <created>1592089374590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592089374590</updated>
+      <workItem from="1592089377204" duration="1515000" />
+      <workItem from="1592090906635" duration="406000" />
+      <workItem from="1592092309192" duration="1030000" />
+      <workItem from="1592093430306" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="203" width="579" height="622" key="#ClothesShopping" timestamp="1592092803798">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="238" y="203" width="579" height="622" key="#ClothesShopping/33.0.1407.960@33.0.1407.960" timestamp="1592092803798" />
+    <state x="446" y="159" key="#Clothing" timestamp="1592093151581">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="446" y="159" key="#Clothing/33.0.1407.960@33.0.1407.960" timestamp="1592093151581" />
+    <state x="217" y="55" key="#Project_Structure" timestamp="1592093231157">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="217" y="55" key="#Project_Structure/33.0.1407.960@33.0.1407.960" timestamp="1592093231157" />
+    <state x="191" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592093044933">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="191" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/33.0.1407.960@33.0.1407.960" timestamp="1592093044933" />
+    <state x="517" y="182" key="FileChooserDialogImpl" timestamp="1592093227959">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="517" y="182" key="FileChooserDialogImpl/33.0.1407.960@33.0.1407.960" timestamp="1592093227959" />
+    <state x="238" y="110" key="SettingsEditor" timestamp="1592092899834">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="238" y="110" key="SettingsEditor/33.0.1407.960@33.0.1407.960" timestamp="1592092899834" />
+    <state x="399" y="205" width="672" height="678" key="search.everywhere.popup" timestamp="1592092878914">
+      <screen x="33" y="0" width="1407" height="960" />
+    </state>
+    <state x="399" y="205" width="672" height="678" key="search.everywhere.popup/33.0.1407.960@33.0.1407.960" timestamp="1592092878914" />
+  </component>
+</project>
